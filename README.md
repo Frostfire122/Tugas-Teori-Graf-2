@@ -30,3 +30,19 @@
   6. Move to the next *smallest* edge.
   7. Repeat steps 4–6 until all vertices are connected.
   8. The edges selected during the process form the minimum spanning tree.
+
+### Reverse-Delete Algorithm
+
+  Steps:
+  
+  1. Start with the full connected graph containing all its original edges.
+  2. Sort all edges in decreasing order of their weights.
+  3. Consider the edge with the *largest* weight.
+  4. Temporarily remove the edge from the graph and check if the graph remains connected:
+     
+  * If the graph remains connected, permanently delete the edge.
+  * Else, restore the edge back to the graph.
+  
+  5. Move to the next *largest* edge.
+  6. Repeat steps 4–5 until all remaining edges have been evaluated.
+  7. The remaining connected graph forms the minimum spanning tree.

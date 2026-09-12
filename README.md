@@ -1,6 +1,7 @@
 # Informatics ITS Graph Theory class Group 4
 
-## Prim's Algorithm
+## Step/Explanation about the algorithm
+### Prim's Algorithm
 
   Steps:
   
@@ -13,7 +14,7 @@
   7. The edges selected during the process form the minimum spanning tree.
 
 
-## Kruskal's Algorithm
+### Kruskal's Algorithm
 
   Steps:
   
@@ -31,7 +32,7 @@
   7. Repeat steps 4–6 until all vertices are connected.
   8. The edges selected during the process form the minimum spanning tree.
 
-## Reverse-Delete Algorithm
+### Reverse-Delete Algorithm
 
   Steps:
   

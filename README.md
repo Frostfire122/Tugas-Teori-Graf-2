@@ -1,1 +1,3 @@
-# Tugas-Teori-Graf-2
+# Informatics ITS Graph Theory class Group 4
+
+## Prim's Algorithm

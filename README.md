@@ -11,3 +11,21 @@
   5. Add the chosen edge and its outside vertex to the spanning tree.
   6. Repeat steps 3–5 until all vertices are included in the spanning tree.
   7. The edges selected during the process form the minimum spanning tree.
+
+
+### Kruskal's Algorithm
+
+  Steps:
+  
+  1. Start with all vertices as separate components
+  2. Sort all edges in increasing order of their weights
+  3. Consider the edge with the *smallest* weight
+  4. If adding the edge does not create a cycle:
+    * add it to the spanning tree.
+    Else
+    * skip it.
+    
+  
+  5. Move to the next *smallest* edge.
+  6. Repeat steps 4–6 until all vertices are connected.
+  7. The edges selected during the process form the minimum spanning tree.

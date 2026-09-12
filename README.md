@@ -23,7 +23,7 @@
   4. If adding the edge does not create a cycle:
      
   * add it to the spanning tree.
-    Else
+  - Else
   * skip it.
     
   

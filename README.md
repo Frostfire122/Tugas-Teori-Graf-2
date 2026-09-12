@@ -21,11 +21,12 @@
   2. Sort all edges in increasing order of their weights
   3. Consider the edge with the *smallest* weight
   4. If adding the edge does not create a cycle:
-    * add it to the spanning tree.
+     
+  * add it to the spanning tree.
     Else
-    * skip it.
+  * skip it.
     
   
-  5. Move to the next *smallest* edge.
-  6. Repeat steps 4–6 until all vertices are connected.
-  7. The edges selected during the process form the minimum spanning tree.
+  6. Move to the next *smallest* edge.
+  7. Repeat steps 4–6 until all vertices are connected.
+  8. The edges selected during the process form the minimum spanning tree.

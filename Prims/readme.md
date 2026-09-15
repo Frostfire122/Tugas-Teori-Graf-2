@@ -27,3 +27,20 @@ E - F   5
 F - G   6
 -----------------
 Total MST weight: 34
+
+### Simulation 2: Node Failure (Node C Fails)
+
+When node **C** suffers a complete breakdown, all incident connections on row `2` and column `2` are zeroed out (`graph[2][v] = 0` and `graph[u][2] = 0`). The algorithm dynamically re-routes around node C using alternative paths.
+
+**Adapted Output:**
+
+```text
+Edge    Weight
+-----------------
+A - G   5
+G - F   6
+F - E   5
+E - D   5
+D - B   7
+-----------------
+Total MST weight: 28

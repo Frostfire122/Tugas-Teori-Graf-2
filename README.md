@@ -88,3 +88,19 @@
 
 - Open a C compiler
 - Run the code
+
+## Result of sample
+
+### Prim
+
+<img width="327" height="289" alt="image" src="https://github.com/user-attachments/assets/8e3b8c0a-c10a-4b4c-a5cd-09f24b4e4754" />
+
+### Kruskal
+
+<img width="308" height="293" alt="image" src="https://github.com/user-attachments/assets/f5cc38e6-fa92-454b-aa33-14da3f647b30" />
+
+### Reverse-Delete
+
+<img width="472" height="494" alt="image" src="https://github.com/user-attachments/assets/262956b9-29c0-492f-8b12-6292c8d586ba" />
+
+

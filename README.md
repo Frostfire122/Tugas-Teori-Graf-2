@@ -84,3 +84,7 @@
   </tr>
 </table>
 
+## Instructions to run the Code
+
+- Open a C compiler
+- Run the code

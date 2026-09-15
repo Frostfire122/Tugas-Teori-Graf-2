@@ -106,3 +106,4 @@
 ## Usage of Ai
 
 https://claude.ai/share/6ca69834-0ce3-4beb-b3e5-3a9a2dee0408
+https://share.gemini.google/Z8uD9kv3qFwU
